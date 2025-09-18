@@ -70,7 +70,7 @@ Now I’m on a mission to use technology to **solve real-world problems** and bu
   <a href="https://github.com/ManishRajputcoder" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="[www.linkedin.com/in/manish-singh-90a189288](https://www.linkedin.com/in/manish-singh-90a189288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/manish-singh-90a189288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://medium.com/@YourMedium" target="_blank">
