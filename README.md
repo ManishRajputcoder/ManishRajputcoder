@@ -13,16 +13,34 @@ Now I’m on a mission to use technology to **solve real-world problems** and bu
 
 ---
 
-### 🛠️ Skills  
-- **Languages & Libraries:** JavaScript, React JS, HTML5, CSS3, TailwindCSS, Bootstrap  
-- **Tools:** VS Code, GitHub, Chrome DevTools  
-- **Interests:** Frontend Architecture, UI/UX, AI Integrations  
+### 🛠 Skills  
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+</p>
+ 
 
 ---
 
 ### 🌍 About Me  
 - 🌏 Based in Mumbai, India  
-- 📧 Reach me at: **manishrajputcoder@gmail.com**  
+- 📧 Reach me at: **manishsingh93726@gmail.com**  
 - 🤝 Open to collaborating on **frontend projects** or anything creative with **React JS**  
 - 💡 Currently exploring **AI + Web** integrations  
 
@@ -33,7 +51,7 @@ Now I’m on a mission to use technology to **solve real-world problems** and bu
 |---------|-------------|------|
 | **Movie Watchlist App** | Save & manage your favorite movies with TMDB API integration | React, Context API |
 | **YouTube Clone** | A functional YouTube UI clone with video playback & recommendations | React, API Integration |
-| **Expense Tracker** | Track your expenses and store them with localStorage | React |
+| **Expense Tracker** | Track your expenses and store them with localStorage | Javascript |
 
 *(More coming soon…)*  
 
@@ -46,10 +64,23 @@ Now I’m on a mission to use technology to **solve real-world problems** and bu
 
 ---
 
-### 📫 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/)  
-- [Twitter](https://twitter.com/)  
-- [Portfolio Website](https://yourwebsite.com/) *(if you have one)*  
+### 🌐 Socials  
+
+<p align="left">
+  <a href="https://github.com/YourUsername" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://medium.com/@YourMedium" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/YourTwitter" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" width="40" height="40"/>
+  </a>
+</p>
+
 
 ---
 
